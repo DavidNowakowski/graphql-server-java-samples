@@ -13,3 +13,4 @@ This repository contains GraphQL tutorials-implementations written in Java & Gra
 - [GraphQL learn](https://graphql.org/learn/): GraphQL reference docs.
 - [graphql-java](https://www.graphql-java.com/): Java graphQL framework docs.
 - [graphql-over-http](https://github.com/graphql/graphql-over-http): Community spec about how to serve graphQL over http.
+- [security-concerns](https://graphql.org/faq/#what-are-the-security-concerns-with-graphql): Security concerns when using graphQL.
